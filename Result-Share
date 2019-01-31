@@ -1,0 +1,92 @@
+<div class="result-share-wrapper">
+	<div class="result-share-container">
+		<h1 class="top-logo"><img src="https://toadcreatives.com/dev/ocean/wp-content/uploads/2019/01/LOGO-OCEAN.png"></h1>
+		<div class="share-table">
+			<div id="openness" class="share-row">
+				<div class="share-col-one">
+					<h1>O</h1>
+				</div>
+				<div class="share-col-two">
+					<h3>Openness</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisc.</p>
+					<div id="progressbar">
+					  <div class="progress">
+					  	<div class="percentage">40%</div>
+					  </div>
+					</div>
+				</div>
+				<div class="share-col-three">
+					<h1>9</h1>
+				</div>
+			</div>
+			<div id="conscientiousness" class="share-row">
+				<div class="share-col-one">
+					<h1>C</h1>
+				</div>
+				<div class="share-col-two">
+					<h3>Conscientiousness</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisc.</p>
+					<div id="progressbar">
+					  <div class="progress">
+					  	<div class="percentage">40%</div>
+					  </div>
+					</div>
+				</div>
+				<div class="share-col-three">
+					<h1>1</h1>
+				</div>
+			</div>
+			<div id="extraversion" class="share-row">
+				<div class="share-col-one">
+					<h1>E</h1>
+				</div>
+				<div class="share-col-two">
+					<h3>Extraversion</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisc.</p>
+					<div id="progressbar">
+					  <div class="progress">
+					  	<div class="percentage">40%</div>
+					  </div>
+					</div>
+				</div>
+				<div class="share-col-three">
+					<h1>2</h1>
+				</div>
+			</div>
+			<div id="action" class="share-row">
+				<div class="share-col-one">
+					<h1>A</h1>
+				</div>
+				<div class="share-col-two">
+					<h3>Action</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisc.</p>
+					<div id="progressbar">
+					  <div class="progress">
+					  	<div class="percentage">40%</div>
+					  </div>
+					</div>
+				</div>
+				<div class="share-col-three">
+					<h1>4</h1>
+				</div>
+			</div>
+			<div id="nature" class="share-row">
+				<div class="share-col-one">
+					<h1>N</h1>
+				</div>
+				<div class="share-col-two">
+					<h3>Nature</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisc.</p>
+					<div id="progressbar">
+					  <div class="progress">
+					  	<div class="percentage">40%</div>
+					  </div>
+					</div>
+				</div>
+				<div class="share-col-three">
+					<h1>5</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
