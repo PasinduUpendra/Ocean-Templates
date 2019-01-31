@@ -1,0 +1,86 @@
+<div id="tests-wrapper">
+	<div class="question-row">
+		<div class="test-question">
+			<h4>Winning a debate matters less to you than making sure no one gets upset.</h4>
+		</div>
+		<div class="test-answers">
+			<ul class="answer-list">
+				<li><a href="#">Disagree Strongly</a></li>
+				<li><a href="#">Disagree</a></li>
+				<li><a href="#">Neutral</a></li>
+				<li><a href="#">Agree</a></li>
+				<li><a href="#">Strongly Agree</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="question-row">
+		<div class="test-question">
+			<h4>You are usually highly motivated and energetic.</h4>
+		</div>
+		<div class="test-answers">
+			<ul class="answer-list">
+				<li><a href="#">Disagree Strongly</a></li>
+				<li><a href="#">Disagree</a></li>
+				<li><a href="#">Neutral</a></li>
+				<li><a href="#">Agree</a></li>
+				<li><a href="#">Strongly Agree</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="question-row">
+		<div class="test-question">
+			<h4>Being organized is more important to you than being adaptable.</h4>
+		</div>
+		<div class="test-answers">
+			<ul class="answer-list">
+				<li><a href="#">Disagree Strongly</a></li>
+				<li><a href="#">Disagree</a></li>
+				<li><a href="#">Neutral</a></li>
+				<li><a href="#">Agree</a></li>
+				<li><a href="#">Strongly Agree</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="question-row">
+		<div class="test-question">
+			<h4>You often feel as if you have to justify yourself to other people.</h4>
+		</div>
+		<div class="test-answers">
+			<ul class="answer-list">
+				<li><a href="#">Disagree Strongly</a></li>
+				<li><a href="#">Disagree</a></li>
+				<li><a href="#">Neutral</a></li>
+				<li><a href="#">Agree</a></li>
+				<li><a href="#">Strongly Agree</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="question-row">
+		<div class="test-question">
+			<h4>Your home and work environments are quite tidy.</h4>
+		</div>
+		<div class="test-answers">
+			<ul class="answer-list">
+				<li><a href="#">Disagree Strongly</a></li>
+				<li><a href="#">Disagree</a></li>
+				<li><a href="#">Neutral</a></li>
+				<li><a href="#">Agree</a></li>
+				<li><a href="#">Strongly Agree</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="progress-section">
+	<div class="goback">
+		<a href="#"><img src="https://toadcreatives.com/dev/ocean/wp-content/uploads/2019/01/back-icon.png">
+		</a>
+	</div>
+	<div class="progress-bar">
+		<div id="progressbar">
+		  <div class="progress">
+		  	<div class="percentage">40%</div>
+		  </div>
+		</div>
+	</div>
+</div>
